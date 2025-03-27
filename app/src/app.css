@@ -1,0 +1,116 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 98%;
+    --foreground: 240 8% 5%;
+    --card: 240 8% 97%;
+    --card-foreground: 240 8% 5%;
+    --popover: 240 8% 97%;
+    --popover-foreground: 240 8% 5%;
+    --primary: 253 90% 16%;
+    --primary-foreground: 0 0% 98%;
+    --secondary: 270 6% 93%;
+    --secondary-foreground: 240 8% 5%;
+    --muted: 270 6% 93%;
+    --muted-foreground: 253 6% 45%;
+    --accent: 270 6% 93%;
+    --accent-foreground: 240 8% 5%;
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 240 6% 90%;
+    --input: 260 7% 82%;
+    --ring: 253 24% 74%;
+    --radius: 0.5rem;
+
+    --sidebar-background: 240 8% 97%;
+    --sidebar-foreground: 240 8% 5%;
+    --sidebar-primary: 253 90% 16%;
+    --sidebar-primary-foreground: 0 0% 98%;
+    --sidebar-accent: 270 6% 93%;
+    --sidebar-accent-foreground: 240 8% 5%;
+    --sidebar-border: 240 6% 90%;
+    --sidebar-ring: 253 24% 74%;
+
+  }
+  
+  .dark {
+    --background: 240 3% 6%;
+    --foreground: 0 0% 98%;
+    --card: 270 6% 7%;
+    --card-foreground: 0 0% 98%;
+    --popover: 270 6% 7%;
+    --popover-foreground: 0 0% 98%;
+    --primary: 249 16% 50%;
+    --primary-foreground: 0 0% 98%;
+    --secondary: 240 5% 15%;
+    --secondary-foreground: 0 0% 98%;
+    --muted: 250 5% 22%;
+    --muted-foreground: 250 5% 49%;
+    --accent: 249 13% 20%;
+    --accent-foreground: 0 0% 98%;
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 260 5% 12%;
+    --input: 240 4% 18%;
+    --ring: 248 16% 40%;
+
+    --sidebar-background: 270 6% 7%;
+    --sidebar-foreground: 0 0% 98%;
+    --sidebar-primary: 249 16% 50%;
+    --sidebar-primary-foreground: 0 0% 98%;
+    --sidebar-accent: 249 13% 20%;
+    --sidebar-accent-foreground: 0 0% 98%;
+    --sidebar-border: 260 5% 12%;
+    --sidebar-ring: 248 16% 40%;
+  }
+
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+
+  h1 {
+    @apply scroll-m-20 text-4xl sm:text-5xl font-extrabold tracking-tight lg:text-5xl mb-6;
+  }
+  h2 {
+    @apply scroll-m-20 text-3xl sm:text-4xl font-semibold tracking-tight transition-colors my-10 mb-5;
+  }
+  h3 {
+    @apply scroll-m-20 text-2xl font-semibold tracking-tight transition-colors mb-4;
+  }
+  h4 {
+    @apply scroll-m-20 text-xl font-semibold tracking-tight transition-colors mb-2;
+  }
+  h5 {
+    @apply scroll-m-20 text-lg font-semibold tracking-tight transition-colors;
+  }
+  h6 {
+    @apply scroll-m-20 text-base font-semibold tracking-tight transition-colors;
+  }
+  hr {
+    @apply my-6 mx-auto w-4/5;
+  }
+  p {
+    @apply leading-7;
+  }
+  p > a {
+    @apply opacity-75 transition-opacity hover:underline underline-offset-4;
+  }
+  p > a.active {
+    @apply opacity-100 font-medium;
+  }
+  blockquote {
+    @apply mt-6 border-l-2 pl-6 italic;
+  }
+  code {
+    @apply bg-muted relative rounded px-[0.3rem] py-[0.2rem] font-mono text-sm font-semibold;
+  }
+  main {
+    @apply mx-auto w-full px-4 py-2;
+  }
+}

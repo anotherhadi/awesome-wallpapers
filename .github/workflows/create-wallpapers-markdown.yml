@@ -1,0 +1,49 @@
+name: Create Wallpapers Markdown
+
+on:
+  workflow_run:
+    workflows: ["Check Wallpapers Format"]
+    types:
+      - completed
+permissions:
+  contents: write
+jobs:
+  generate-md:
+    runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}  # Only run if the first workflow was successful
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create WALLPAPERS.md
+        run: |
+          # Set the output file
+          OUTPUT_FILE="WALLPAPERS.md"
+
+          # Start the markdown file content
+          echo "# Wallpapers" > $OUTPUT_FILE
+          echo "" >> $OUTPUT_FILE
+
+          # Create a table with 2 columns for the wallpapers and their names
+          echo "| Wallpaper | Name |" >> $OUTPUT_FILE
+          echo "|-----------|------|" >> $OUTPUT_FILE
+
+          # Loop through the wallpapers directory
+          for file in wallpapers/*.{png,jpg,gif}; do
+            if [[ -f "$file" ]]; then
+              # Get the filename without the path
+              FILENAME=$(basename "$file")
+              # Get the name of the wallpaper (without extension)
+              NAME="${FILENAME%.*}"
+
+              # Create the markdown table entry for the wallpaper
+              echo "| ![${NAME}](${file}) | ${NAME} |" >> $OUTPUT_FILE
+            fi
+          done
+
+          # Commit the changes
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add $OUTPUT_FILE
+          git commit -m "Generate WALLPAPERS.md" && git push
+          exit 0
