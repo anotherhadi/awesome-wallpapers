@@ -3,10 +3,10 @@ name: Check Wallpapers Format
 on:
   push:
     paths:
-      - 'wallpapers/**'
+      - 'app/static/wallpapers/**'
   pull_request:
     paths:
-      - 'wallpapers/**'
+      - 'app/static/wallpapers/**'
 
 jobs:
   check-extensions:
@@ -18,7 +18,7 @@ jobs:
       - name: Validate file format and naming conventions
         run: |
           # Loop through all wallpaper files
-          cd "./wallpapers"
+          cd "./app/static/wallpapers"
           for file in *; do
             if [[ -f "$file" ]]; then
               filename=$file
