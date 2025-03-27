@@ -20,15 +20,10 @@
 		hovered: boolean;
 	};
 
-	let wallpapers: Wallpaper[] = [];
-	let tags: string[] = [];
-	let selectedTags: string[] = [];
-	let search: string = '';
-	let loading: boolean = false;
-	let isLoadingMore: boolean = false; // Etat pour savoir si de nouveaux wallpapers sont en train de charger
-	let allWallpapers: Wallpaper[] = [];
-	let currentPage: number = 0;
-	const wallpapersPerPage: number = 20;
+	let wallpapers: Wallpaper[] = $state([]);
+	let tags: string[] = $state([]);
+	let selectedTags: string[] = $state([]);
+	let search: string = $state('');
 
 	const owner = 'anotherhadi';
 	const repo = 'awesome-wallpapers';
@@ -64,9 +59,7 @@
 		const res = await fetch('/files.json');
 		const fileData: { filename: string; size: string; width: number; height: number }[] =
 			await res.json();
-
-		// Map to Wallpaper objects
-		allWallpapers = fileData.map((file) => {
+		wallpapers = fileData.map((file) => {
 			let { name, filename, tags: fileTags } = parseFilename(file.filename);
 
 			return {
@@ -79,51 +72,15 @@
 				hovered: false
 			};
 		});
-
-		// Initially load the first set of wallpapers
-		loadMoreWallpapers();
 	}
 
-	function loadMoreWallpapers() {
-		if (loading || isLoadingMore || currentPage * wallpapersPerPage >= allWallpapers.length) return;
-		isLoadingMore = true;
-
-		// Load next batch of wallpapers
-		const nextWallpapers = allWallpapers.slice(
-			currentPage * wallpapersPerPage,
-			(currentPage + 1) * wallpapersPerPage
-		);
-		wallpapers = [...wallpapers, ...nextWallpapers];
-		currentPage++;
-		isLoadingMore = false;
-	}
-
-	// Handle scroll event
-	function onScroll() {
-		const scrollPosition = window.scrollY + window.innerHeight;
-		const bottomPosition = document.documentElement.scrollHeight;
-
-		if (scrollPosition >= bottomPosition - 100) {
-			// Load more wallpapers when reaching the bottom
-			loadMoreWallpapers();
-		}
-	}
-
-	onMount(() => {
-		fetchWallpapers();
-		window.addEventListener('scroll', onScroll);
-
-		return () => {
-			window.removeEventListener('scroll', onScroll);
-		};
-	});
+	onMount(fetchWallpapers);
 </script>
 
 <div class="flex gap-5 px-2 py-4">
 	<Input class="h-8" placeholder="Search..." bind:value={search} />
 	<Filters title="Tags" options={tags} bind:selectedValues={selectedTags} />
 </div>
-
 {#if wallpapers.length === 0}
 	<Loading />
 {:else}
@@ -186,12 +143,12 @@
 												</p>
 												<p>
 													<span class="text-muted-foreground">Tags:</span>
-													{#if wallpaper.tags.length === 0}
-														<span class="text-muted-foreground">No tags</span>
-													{:else}
+													{#if wallpaper.tags.length > 0}
 														{#each wallpaper.tags as tag}
 															<Badge variant="outline">{tag}</Badge>
 														{/each}
+													{:else}
+														<span>No tags</span>
 													{/if}
 												</p>
 												<p class="mt-2">
@@ -246,9 +203,4 @@ image = pkgs.fetchurl &lbrace;
 			{/if}
 		{/each}
 	</div>
-	{#if isLoadingMore}
-		<div class="mt-4 flex justify-center">
-			<Loading />
-		</div>
-	{/if}
 {/if}
