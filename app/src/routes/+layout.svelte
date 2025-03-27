@@ -44,6 +44,6 @@
 		class="absolute bottom-0 flex h-32 w-full flex-col items-center justify-center gap-4 bg-primary/20"
 	>
 		<img src="/favicon.png" alt="logo" class="w-5 rounded-md" />
-		<p class="text-muted-foreground">@anotherhadi</p>
+		<a href={`https://github.com/${owner}`} class="text-muted-foreground">@anotherhadi</a>
 	</div>
 </div>
