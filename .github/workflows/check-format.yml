@@ -48,9 +48,10 @@ jobs:
                 fi
               fi
 
+              # If le fichier contient _animated, il doit y avoir un fichier png ou jpg qui contient le même nom et _static à la place de _animated
               if [[ $basename == *"_animated"* ]]; then
                 t=$(echo "$basename" | sed 's/animated/static/')
-                if [ ! -f "${t}.png" ] || [ ! -f "${t}.jpg" ]; then
+                if [ ! -f "${t}.png" ] && [ ! -f "${t}.jpg" ]; then
                   echo "❌ Error: $file has a animated tag but no png or jpg file"
                   exit 1
                 fi
