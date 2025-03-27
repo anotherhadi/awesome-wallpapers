@@ -1,4 +1,4 @@
 [build]
   base = "app"
   publish = "build"
-  command = "node generateFileList.js && pnpm build"
+  command = "pnpm build"
