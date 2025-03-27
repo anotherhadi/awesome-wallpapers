@@ -1,5 +1,4 @@
 [build]
   base = "app"
   publish = "build"
-  command = "pnpm build"
-  ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF ."
+  command = "node generateFileList.js && pnpm build"

@@ -29,6 +29,7 @@ A curated collection of high-quality wallpapers, organized by tags.
 ## **Contributing Guidelines**  
 
 To maintain quality and consistency, please follow these rules when adding wallpapers:  
+Wallpapers are stored in the `./app/static/wallpapers` directory.
 
 ### **File Naming Convention**  
 
