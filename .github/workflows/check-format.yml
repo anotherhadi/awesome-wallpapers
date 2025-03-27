@@ -1,0 +1,63 @@
+name: Check Wallpapers Format
+
+on:
+  push:
+    paths:
+      - 'wallpapers/**'
+  pull_request:
+    paths:
+      - 'wallpapers/**'
+
+jobs:
+  check-extensions:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Validate file format and naming conventions
+        run: |
+          # Loop through all wallpaper files
+          cd "./wallpapers"
+          for file in *; do
+            if [[ -f "$file" ]]; then
+              filename=$file
+              basename=$(echo "$file" | cut -d. -f1)
+
+              # Check if .png, .jpg or .gif
+              if [[ ! $filename =~ \.(png|jpg|gif)$ ]]; then
+                echo "❌ Error: $file is not a PNG, JPG or GIF file"
+                exit 1
+              fi
+
+              # Check if only lowercase letters, - and _ are used
+              echo "$basename" | grep -qE '^[a-z0-9][a-z0-9_-]*$' || {
+                echo "❌ Error: $file contains invalid characters"
+                exit 1
+              }
+
+              if [[ $basename == *-_* ]]; then
+                echo "❌ Error: $file contains a tag with a leading or trailing _"
+                exit 1
+              fi
+
+              if [[ $basename == *"_static"* ]]; then
+                if [ ! -f "${basename}*.gif" ]; then
+                  echo "❌ Error: $file has a static tag but no gif file"
+                  exit 1
+                fi
+              fi
+
+              if [[ $basename == *"_animated"* ]]; then
+                if [ ! -f "${basename}*.png" ] && [ ! -f "${basename}*.jpg" ]; then
+                  echo "❌ Error: $file has a animated tag but no png or jpg file"
+                  exit 1
+                fi
+              fi
+
+              if [[ $filename == *.gif && $basename != *"_animated"* ]]; then
+                echo "❌ Error: $file is a gif file but doesn't contain _static or _animated"
+                exit 1
+              fi
+            fi
+          done
