@@ -100,7 +100,7 @@
 			>Check the github repo <ChevronRight size={16} /></Badge
 		>
 		<h1 class="m-0">Awesome Wallpapers</h1>
-		<p class="text-muted-foreground">Wallpapers collection from {owner}/{repo}</p>
+		<p class="text-muted-foreground">Open-source wallpapers collection from {owner}/{repo}</p>
 	</header>
 
 	<main class="mx-10">
