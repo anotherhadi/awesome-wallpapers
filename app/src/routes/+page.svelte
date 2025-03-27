@@ -97,7 +97,7 @@
 <div class="flex min-h-[100vh] flex-col gap-5 bg-background">
 	<header class="flex h-96 w-full flex-col items-center justify-center gap-5 bg-primary/20">
 		<Badge class="gap-2" href={'https://github.com/' + owner + '/' + repo} target="_blank"
-			>See the github repo <ChevronRight size={16} /></Badge
+			>Check the github repo <ChevronRight size={16} /></Badge
 		>
 		<h1 class="m-0">Awesome Wallpapers</h1>
 		<p class="text-muted-foreground">Wallpapers collection from {owner}/{repo}</p>
