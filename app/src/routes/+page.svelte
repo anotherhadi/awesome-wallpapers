@@ -3,7 +3,7 @@
 	import * as Drawer from '$lib/components/ui/drawer/index.js';
 	import Badge from '$lib/components/ui/badge/badge.svelte';
 	import Button from '$lib/components/ui/button/button.svelte';
-	import { Copy, Download } from '@lucide/svelte';
+	import { Copy, Download, Moon, Sun } from '@lucide/svelte';
 	import { Info, ChevronRight, ChevronsUpDown } from '@lucide/svelte';
 	import axios from 'axios';
 	import { onMount } from 'svelte';
@@ -11,6 +11,7 @@
 	import Filters from './filters.svelte';
 	import Loading from './loading.svelte';
 	import Input from '$lib/components/ui/input/input.svelte';
+	import { toggleMode } from 'mode-watcher';
 
 	type Wallpaper = {
 		name: string;
@@ -108,7 +109,17 @@
 </script>
 
 <div class="relative flex min-h-[100vh] flex-col gap-5 bg-background">
-	<p class="absolute right-0 top-0 m-2 text-muted-foreground">{version}</p>
+	<p class="absolute right-2 top-2 m-2 text-muted-foreground">{version}</p>
+	<Button onclick={toggleMode} variant="ghost" size="icon" class="absolute left-2 right-2 m-2">
+		<Sun
+			class="h-[1.2rem] w-[1.2rem] rotate-0 scale-100 transition-all dark:-rotate-90 dark:scale-0"
+		/>
+		<Moon
+			class="absolute h-[1.2rem] w-[1.2rem] rotate-90 scale-0 transition-all dark:rotate-0 dark:scale-100"
+		/>
+		<span class="sr-only">Toggle theme</span>
+	</Button>
+
 	<header class="flex h-96 w-full flex-col items-center justify-center gap-5 bg-primary/20">
 		<Badge class="gap-2" href={'https://github.com/' + owner + '/' + repo} target="_blank"
 			>Check the github repo <ChevronRight size={16} /></Badge
@@ -211,7 +222,7 @@ image = pkgs.fetchurl {
 
 															<pre
 																id={wallpaper.filename}
-																class="mb-4 mt-2 max-h-[650px] overflow-x-auto rounded-lg border bg-zinc-950 px-2 py-4 dark:bg-zinc-900">
+																class="mb-4 mt-2 max-h-[650px] overflow-x-auto rounded-lg border bg-zinc-950 px-2 py-4 text-white dark:bg-zinc-900">
 image = pkgs.fetchurl &lbrace;
   url = "https://raw.githubusercontent.com/{owner}/{repo}/refs/heads/main/{path}/{wallpaper.filename}";
   sha256 = "{wallpaper.sha256}";
