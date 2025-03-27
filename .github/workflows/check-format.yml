@@ -50,7 +50,7 @@ jobs:
 
               if [[ $basename == *"_animated"* ]]; then
                 t=$(echo "$basename" | sed 's/_static/_animated/')
-                if [ ! -f "${t}.png" ] && [ ! -f "${t}.jpg" ]; then
+                if [ ! -f "${t}.png" ] || [ ! -f "${t}.jpg" ]; then
                   echo "❌ Error: $file has a animated tag but no png or jpg file"
                   exit 1
                 fi
