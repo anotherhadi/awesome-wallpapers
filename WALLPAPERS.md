@@ -3,10 +3,13 @@
 | Wallpaper | Name |
 |-----------|------|
 | ![a-car-and-a-cloud](app/static/wallpapers/a-car-and-a-cloud.png) | a-car-and-a-cloud |
+| ![a-purple-planet_purple](app/static/wallpapers/a-purple-planet_purple.png) | a-purple-planet_purple |
 | ![a-street-in-the-dark](app/static/wallpapers/a-street-in-the-dark.png) | a-street-in-the-dark |
 | ![alone-cloud_dark](app/static/wallpapers/alone-cloud_dark.png) | alone-cloud_dark |
 | ![another-one](app/static/wallpapers/another-one.png) | another-one |
+| ![another-planet-with-grass_blue](app/static/wallpapers/another-planet-with-grass_blue.png) | another-planet-with-grass_blue |
 | ![another-sky_light](app/static/wallpapers/another-sky_light.png) | another-sky_light |
+| ![aquarium_blue](app/static/wallpapers/aquarium_blue.png) | aquarium_blue |
 | ![aurora](app/static/wallpapers/aurora.png) | aurora |
 | ![barcode_minimalist_dark](app/static/wallpapers/barcode_minimalist_dark.png) | barcode_minimalist_dark |
 | ![black-and-white-forest_minimalist_black-and-white](app/static/wallpapers/black-and-white-forest_minimalist_black-and-white.png) | black-and-white-forest_minimalist_black-and-white |
@@ -26,6 +29,7 @@
 | ![diner-lonely-road](app/static/wallpapers/diner-lonely-road.png) | diner-lonely-road |
 | ![drawing_art_dark](app/static/wallpapers/drawing_art_dark.png) | drawing_art_dark |
 | ![dry-your-laundry](app/static/wallpapers/dry-your-laundry.png) | dry-your-laundry |
+| ![forest-mountains-and-cloud_dark_black-and-white](app/static/wallpapers/forest-mountains-and-cloud_dark_black-and-white.png) | forest-mountains-and-cloud_dark_black-and-white |
 | ![forest-under-the-clouds](app/static/wallpapers/forest-under-the-clouds.png) | forest-under-the-clouds |
 | ![free-astronaut_catppuccin](app/static/wallpapers/free-astronaut_catppuccin.png) | free-astronaut_catppuccin |
 | ![fuji_dark](app/static/wallpapers/fuji_dark.png) | fuji_dark |
@@ -96,7 +100,9 @@
 | ![tokyo-skyscraper_dark](app/static/wallpapers/tokyo-skyscraper_dark.png) | tokyo-skyscraper_dark |
 | ![tokyo](app/static/wallpapers/tokyo.png) | tokyo |
 | ![topology_dark](app/static/wallpapers/topology_dark.png) | topology_dark |
+| ![train-and-lake_blue](app/static/wallpapers/train-and-lake_blue.png) | train-and-lake_blue |
 | ![train_light](app/static/wallpapers/train_light.png) | train_light |
+| ![under-the-bridge_blue](app/static/wallpapers/under-the-bridge_blue.png) | under-the-bridge_blue |
 | ![vanilla_pink_purple](app/static/wallpapers/vanilla_pink_purple.png) | vanilla_pink_purple |
 | ![vector-moutains_blue_dark](app/static/wallpapers/vector-moutains_blue_dark.png) | vector-moutains_blue_dark |
 | ![velvet-moutains_minimalist_dark](app/static/wallpapers/velvet-moutains_minimalist_dark.png) | velvet-moutains_minimalist_dark |
