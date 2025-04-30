@@ -10,9 +10,11 @@
 | ![another-planet-with-grass_blue](app/static/wallpapers/another-planet-with-grass_blue.png) | another-planet-with-grass_blue |
 | ![another-sky_light](app/static/wallpapers/another-sky_light.png) | another-sky_light |
 | ![aquarium_blue](app/static/wallpapers/aquarium_blue.png) | aquarium_blue |
+| ![astronaut](app/static/wallpapers/astronaut.png) | astronaut |
 | ![aurora](app/static/wallpapers/aurora.png) | aurora |
 | ![barcode_minimalist_dark](app/static/wallpapers/barcode_minimalist_dark.png) | barcode_minimalist_dark |
 | ![black-and-white-forest_minimalist_black-and-white](app/static/wallpapers/black-and-white-forest_minimalist_black-and-white.png) | black-and-white-forest_minimalist_black-and-white |
+| ![black-grey-and-white](app/static/wallpapers/black-grey-and-white.png) | black-grey-and-white |
 | ![black-oil-2_dark](app/static/wallpapers/black-oil-2_dark.png) | black-oil-2_dark |
 | ![black-oil-3_dark](app/static/wallpapers/black-oil-3_dark.png) | black-oil-3_dark |
 | ![black-oil_dark](app/static/wallpapers/black-oil_dark.png) | black-oil_dark |
@@ -96,6 +98,8 @@
 | ![sun-is-shining](app/static/wallpapers/sun-is-shining.png) | sun-is-shining |
 | ![sushi-keycap_dark](app/static/wallpapers/sushi-keycap_dark.png) | sushi-keycap_dark |
 | ![the-cloud-is-hidding-the-moon_dark](app/static/wallpapers/the-cloud-is-hidding-the-moon_dark.png) | the-cloud-is-hidding-the-moon_dark |
+| ![the-cpu-border_static_black](app/static/wallpapers/the-cpu-border_static_black.png) | the-cpu-border_static_black |
+| ![the-cpu_static_black](app/static/wallpapers/the-cpu_static_black.png) | the-cpu_static_black |
 | ![time-to-ski_blue](app/static/wallpapers/time-to-ski_blue.png) | time-to-ski_blue |
 | ![tokyo-skyscraper_dark](app/static/wallpapers/tokyo-skyscraper_dark.png) | tokyo-skyscraper_dark |
 | ![tokyo](app/static/wallpapers/tokyo.png) | tokyo |
@@ -113,3 +117,5 @@
 | ![windows-problems_flat_minimalist](app/static/wallpapers/windows-problems_flat_minimalist.png) | windows-problems_flat_minimalist |
 | ![cat-watching-the-star_pixelart_purple_animated](app/static/wallpapers/cat-watching-the-star_pixelart_purple_animated.gif) | cat-watching-the-star_pixelart_purple_animated |
 | ![sakura_pixelart_light_animated](app/static/wallpapers/sakura_pixelart_light_animated.gif) | sakura_pixelart_light_animated |
+| ![the-cpu-border_animated_black](app/static/wallpapers/the-cpu-border_animated_black.gif) | the-cpu-border_animated_black |
+| ![the-cpu_animated_black](app/static/wallpapers/the-cpu_animated_black.gif) | the-cpu_animated_black |
