@@ -35,6 +35,10 @@
 | ![forest-mountains-and-cloud_dark_black-and-white](app/static/wallpapers/forest-mountains-and-cloud_dark_black-and-white.png) | forest-mountains-and-cloud_dark_black-and-white |
 | ![forest-under-the-clouds](app/static/wallpapers/forest-under-the-clouds.png) | forest-under-the-clouds |
 | ![free-astronaut_catppuccin](app/static/wallpapers/free-astronaut_catppuccin.png) | free-astronaut_catppuccin |
+| ![fsociety](app/static/wallpapers/fsociety.png) | fsociety |
+| ![fsociety_red](app/static/wallpapers/fsociety_red.png) | fsociety_red |
+| ![fuck-society-no-text](app/static/wallpapers/fuck-society-no-text.png) | fuck-society-no-text |
+| ![fuck-society](app/static/wallpapers/fuck-society.png) | fuck-society |
 | ![fuji_dark](app/static/wallpapers/fuji_dark.png) | fuji_dark |
 | ![fuji_light](app/static/wallpapers/fuji_light.png) | fuji_light |
 | ![galaxy-grey_pixelart](app/static/wallpapers/galaxy-grey_pixelart.png) | galaxy-grey_pixelart |
@@ -49,6 +53,7 @@
 | ![grue_blue](app/static/wallpapers/grue_blue.png) | grue_blue |
 | ![hand-blocking-the-sun_blue](app/static/wallpapers/hand-blocking-the-sun_blue.png) | hand-blocking-the-sun_blue |
 | ![hands_black-and-white](app/static/wallpapers/hands_black-and-white.png) | hands_black-and-white |
+| ![hello-friend_black-and-white](app/static/wallpapers/hello-friend_black-and-white.png) | hello-friend_black-and-white |
 | ![horizon](app/static/wallpapers/horizon.png) | horizon |
 | ![hue-1_minimalist](app/static/wallpapers/hue-1_minimalist.png) | hue-1_minimalist |
 | ![hue-2_minimalist](app/static/wallpapers/hue-2_minimalist.png) | hue-2_minimalist |
