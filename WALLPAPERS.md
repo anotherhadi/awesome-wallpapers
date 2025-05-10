@@ -18,6 +18,7 @@
 | ![black-oil-2_dark](app/static/wallpapers/black-oil-2_dark.png) | black-oil-2_dark |
 | ![black-oil-3_dark](app/static/wallpapers/black-oil-3_dark.png) | black-oil-3_dark |
 | ![black-oil_dark](app/static/wallpapers/black-oil_dark.png) | black-oil_dark |
+| ![black-waves_black-and-white](app/static/wallpapers/black-waves_black-and-white.png) | black-waves_black-and-white |
 | ![cat-watching-the-star_pixelart_purple_static](app/static/wallpapers/cat-watching-the-star_pixelart_purple_static.png) | cat-watching-the-star_pixelart_purple_static |
 | ![catstraunaut_blue](app/static/wallpapers/catstraunaut_blue.png) | catstraunaut_blue |
 | ![cloud-in-the-sky_purple](app/static/wallpapers/cloud-in-the-sky_purple.png) | cloud-in-the-sky_purple |
@@ -47,6 +48,7 @@
 | ![grey-road_grey](app/static/wallpapers/grey-road_grey.png) | grey-road_grey |
 | ![grue_blue](app/static/wallpapers/grue_blue.png) | grue_blue |
 | ![hand-blocking-the-sun_blue](app/static/wallpapers/hand-blocking-the-sun_blue.png) | hand-blocking-the-sun_blue |
+| ![hands_black-and-white](app/static/wallpapers/hands_black-and-white.png) | hands_black-and-white |
 | ![horizon](app/static/wallpapers/horizon.png) | horizon |
 | ![hue-1_minimalist](app/static/wallpapers/hue-1_minimalist.png) | hue-1_minimalist |
 | ![hue-2_minimalist](app/static/wallpapers/hue-2_minimalist.png) | hue-2_minimalist |
