@@ -91,6 +91,7 @@
 | ![pink-sky-moutains_minimalist](app/static/wallpapers/pink-sky-moutains_minimalist.png) | pink-sky-moutains_minimalist |
 | ![purple-japan_purple](app/static/wallpapers/purple-japan_purple.png) | purple-japan_purple |
 | ![purple-moon_purple](app/static/wallpapers/purple-moon_purple.png) | purple-moon_purple |
+| ![railroad-cat](app/static/wallpapers/railroad-cat.png) | railroad-cat |
 | ![rains-dark_dark](app/static/wallpapers/rains-dark_dark.png) | rains-dark_dark |
 | ![rocket-launch_light](app/static/wallpapers/rocket-launch_light.png) | rocket-launch_light |
 | ![rocks-misty_light](app/static/wallpapers/rocks-misty_light.png) | rocks-misty_light |
