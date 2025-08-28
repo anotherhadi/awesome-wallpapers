@@ -13,14 +13,19 @@
 | ![astronaut](app/static/wallpapers/astronaut.png) | astronaut |
 | ![aurora](app/static/wallpapers/aurora.png) | aurora |
 | ![barcode_minimalist_dark](app/static/wallpapers/barcode_minimalist_dark.png) | barcode_minimalist_dark |
+| ![beach-path](app/static/wallpapers/beach-path.png) | beach-path |
 | ![black-and-white-forest_minimalist_black-and-white](app/static/wallpapers/black-and-white-forest_minimalist_black-and-white.png) | black-and-white-forest_minimalist_black-and-white |
 | ![black-grey-and-white](app/static/wallpapers/black-grey-and-white.png) | black-grey-and-white |
 | ![black-oil-2_dark](app/static/wallpapers/black-oil-2_dark.png) | black-oil-2_dark |
 | ![black-oil-3_dark](app/static/wallpapers/black-oil-3_dark.png) | black-oil-3_dark |
 | ![black-oil_dark](app/static/wallpapers/black-oil_dark.png) | black-oil_dark |
 | ![black-waves_black-and-white](app/static/wallpapers/black-waves_black-and-white.png) | black-waves_black-and-white |
+| ![boat-and-purple](app/static/wallpapers/boat-and-purple.png) | boat-and-purple |
+| ![borrowed-time](app/static/wallpapers/borrowed-time.png) | borrowed-time |
+| ![cat-vibin](app/static/wallpapers/cat-vibin.png) | cat-vibin |
 | ![cat-watching-the-star_pixelart_purple_static](app/static/wallpapers/cat-watching-the-star_pixelart_purple_static.png) | cat-watching-the-star_pixelart_purple_static |
 | ![catstraunaut_blue](app/static/wallpapers/catstraunaut_blue.png) | catstraunaut_blue |
+| ![city-on-water](app/static/wallpapers/city-on-water.png) | city-on-water |
 | ![cloud-in-the-sky_purple](app/static/wallpapers/cloud-in-the-sky_purple.png) | cloud-in-the-sky_purple |
 | ![clouds-dodge-the-moon-2](app/static/wallpapers/clouds-dodge-the-moon-2.png) | clouds-dodge-the-moon-2 |
 | ![clouds-in-the-sky-2](app/static/wallpapers/clouds-in-the-sky-2.png) | clouds-in-the-sky-2 |
@@ -28,6 +33,7 @@
 | ![clouds-in-the-sky-4_light](app/static/wallpapers/clouds-in-the-sky-4_light.png) | clouds-in-the-sky-4_light |
 | ![clouds-in-the-sky](app/static/wallpapers/clouds-in-the-sky.png) | clouds-in-the-sky |
 | ![coffee-shop](app/static/wallpapers/coffee-shop.png) | coffee-shop |
+| ![dark-starfields](app/static/wallpapers/dark-starfields.png) | dark-starfields |
 | ![degirled](app/static/wallpapers/degirled.png) | degirled |
 | ![diner-lonely-road](app/static/wallpapers/diner-lonely-road.png) | diner-lonely-road |
 | ![drawing_art_dark](app/static/wallpapers/drawing_art_dark.png) | drawing_art_dark |
@@ -105,6 +111,7 @@
 | ![strange-forms_blue_purple](app/static/wallpapers/strange-forms_blue_purple.png) | strange-forms_blue_purple |
 | ![sun-is-shining](app/static/wallpapers/sun-is-shining.png) | sun-is-shining |
 | ![sushi-keycap_dark](app/static/wallpapers/sushi-keycap_dark.png) | sushi-keycap_dark |
+| ![swirls](app/static/wallpapers/swirls.png) | swirls |
 | ![the-cloud-is-hidding-the-moon_dark](app/static/wallpapers/the-cloud-is-hidding-the-moon_dark.png) | the-cloud-is-hidding-the-moon_dark |
 | ![the-cpu-border_static_black](app/static/wallpapers/the-cpu-border_static_black.png) | the-cpu-border_static_black |
 | ![the-cpu_static_black](app/static/wallpapers/the-cpu_static_black.png) | the-cpu_static_black |
@@ -118,6 +125,7 @@
 | ![vanilla_pink_purple](app/static/wallpapers/vanilla_pink_purple.png) | vanilla_pink_purple |
 | ![vector-moutains_blue_dark](app/static/wallpapers/vector-moutains_blue_dark.png) | vector-moutains_blue_dark |
 | ![velvet-moutains_minimalist_dark](app/static/wallpapers/velvet-moutains_minimalist_dark.png) | velvet-moutains_minimalist_dark |
+| ![voyager-9](app/static/wallpapers/voyager-9.png) | voyager-9 |
 | ![wave-dark_minimalist_black-and-white](app/static/wallpapers/wave-dark_minimalist_black-and-white.png) | wave-dark_minimalist_black-and-white |
 | ![white-snow-and-a-tree_light](app/static/wallpapers/white-snow-and-a-tree_light.png) | white-snow-and-a-tree_light |
 | ![white-sphere_black-and-white](app/static/wallpapers/white-sphere_black-and-white.png) | white-sphere_black-and-white |
