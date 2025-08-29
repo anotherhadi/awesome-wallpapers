@@ -113,6 +113,7 @@
 | ![sun-is-shining](app/static/wallpapers/sun-is-shining.png) | sun-is-shining |
 | ![sushi-keycap_dark](app/static/wallpapers/sushi-keycap_dark.png) | sushi-keycap_dark |
 | ![swirls](app/static/wallpapers/swirls.png) | swirls |
+| ![thats-a-lot-of-stars](app/static/wallpapers/thats-a-lot-of-stars.png) | thats-a-lot-of-stars |
 | ![the-cloud-is-hidding-the-moon_dark](app/static/wallpapers/the-cloud-is-hidding-the-moon_dark.png) | the-cloud-is-hidding-the-moon_dark |
 | ![the-cpu-border_static_black](app/static/wallpapers/the-cpu-border_static_black.png) | the-cpu-border_static_black |
 | ![the-cpu_static_black](app/static/wallpapers/the-cpu_static_black.png) | the-cpu_static_black |
