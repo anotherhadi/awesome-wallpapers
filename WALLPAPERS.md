@@ -38,7 +38,7 @@
 | ![diner-lonely-road](app/static/wallpapers/diner-lonely-road.png) | diner-lonely-road |
 | ![drawing_art_dark](app/static/wallpapers/drawing_art_dark.png) | drawing_art_dark |
 | ![dry-your-laundry](app/static/wallpapers/dry-your-laundry.png) | dry-your-laundry |
-| ![evil-corp-keyboard](app/static/wallpapers/evil-corp-keyboard.png) | evil-corp-keyboard |
+| ![evil-corp-keyboard_purple](app/static/wallpapers/evil-corp-keyboard_purple.png) | evil-corp-keyboard_purple |
 | ![forest-mountains-and-cloud_dark_black-and-white](app/static/wallpapers/forest-mountains-and-cloud_dark_black-and-white.png) | forest-mountains-and-cloud_dark_black-and-white |
 | ![forest-under-the-clouds](app/static/wallpapers/forest-under-the-clouds.png) | forest-under-the-clouds |
 | ![free-astronaut_catppuccin](app/static/wallpapers/free-astronaut_catppuccin.png) | free-astronaut_catppuccin |
