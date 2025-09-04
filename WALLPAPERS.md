@@ -55,6 +55,7 @@
 | ![glacier-2](app/static/wallpapers/glacier-2.png) | glacier-2 |
 | ![glacier-3](app/static/wallpapers/glacier-3.png) | glacier-3 |
 | ![glacier](app/static/wallpapers/glacier.png) | glacier |
+| ![glitches](app/static/wallpapers/glitches.png) | glitches |
 | ![grey-mountains_grey](app/static/wallpapers/grey-mountains_grey.png) | grey-mountains_grey |
 | ![grey-road_grey](app/static/wallpapers/grey-road_grey.png) | grey-road_grey |
 | ![grue_blue](app/static/wallpapers/grue_blue.png) | grue_blue |
@@ -104,6 +105,7 @@
 | ![rocks-misty_light](app/static/wallpapers/rocks-misty_light.png) | rocks-misty_light |
 | ![rose-sky_rose](app/static/wallpapers/rose-sky_rose.png) | rose-sky_rose |
 | ![sakura_pixelart_light_static](app/static/wallpapers/sakura_pixelart_light_static.png) | sakura_pixelart_light_static |
+| ![samurai_pixel_white](app/static/wallpapers/samurai_pixel_white.png) | samurai_pixel_white |
 | ![sea_blue](app/static/wallpapers/sea_blue.png) | sea_blue |
 | ![snow-and-a-tree_white](app/static/wallpapers/snow-and-a-tree_white.png) | snow-and-a-tree_white |
 | ![snowy-japan-street](app/static/wallpapers/snowy-japan-street.png) | snowy-japan-street |
@@ -113,6 +115,7 @@
 | ![sun-is-shining](app/static/wallpapers/sun-is-shining.png) | sun-is-shining |
 | ![sushi-keycap_dark](app/static/wallpapers/sushi-keycap_dark.png) | sushi-keycap_dark |
 | ![swirls](app/static/wallpapers/swirls.png) | swirls |
+| ![thats-a-lot-of-stars](app/static/wallpapers/thats-a-lot-of-stars.png) | thats-a-lot-of-stars |
 | ![the-cloud-is-hidding-the-moon_dark](app/static/wallpapers/the-cloud-is-hidding-the-moon_dark.png) | the-cloud-is-hidding-the-moon_dark |
 | ![the-cpu-border_static_black](app/static/wallpapers/the-cpu-border_static_black.png) | the-cpu-border_static_black |
 | ![the-cpu_static_black](app/static/wallpapers/the-cpu_static_black.png) | the-cpu_static_black |
