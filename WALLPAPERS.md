@@ -46,7 +46,9 @@
 | ![coffee-shop](app/static/wallpapers/coffee-shop.png) | coffee-shop |
 | ![colorful-planets](app/static/wallpapers/colorful-planets.png) | colorful-planets |
 | ![couch_orange](app/static/wallpapers/couch_orange.png) | couch_orange |
+| ![cyber-ascii](app/static/wallpapers/cyber-ascii.png) | cyber-ascii |
 | ![dark-forest_dark](app/static/wallpapers/dark-forest_dark.png) | dark-forest_dark |
+| ![dark-magical-forest-desktop-wallpaper](app/static/wallpapers/dark-magical-forest-desktop-wallpaper.png) | dark-magical-forest-desktop-wallpaper |
 | ![dark-magical-forest](app/static/wallpapers/dark-magical-forest.png) | dark-magical-forest |
 | ![dark-starfields](app/static/wallpapers/dark-starfields.png) | dark-starfields |
 | ![degirled](app/static/wallpapers/degirled.png) | degirled |
@@ -170,10 +172,12 @@
 | ![vector-moutains_blue_dark](app/static/wallpapers/vector-moutains_blue_dark.png) | vector-moutains_blue_dark |
 | ![velvet-moutains_minimalist_dark](app/static/wallpapers/velvet-moutains_minimalist_dark.png) | velvet-moutains_minimalist_dark |
 | ![voyager-9](app/static/wallpapers/voyager-9.png) | voyager-9 |
+| ![warm-textured-gradient](app/static/wallpapers/warm-textured-gradient.png) | warm-textured-gradient |
 | ![wave-dark_minimalist_black-and-white](app/static/wallpapers/wave-dark_minimalist_black-and-white.png) | wave-dark_minimalist_black-and-white |
 | ![white-samurai](app/static/wallpapers/white-samurai.png) | white-samurai |
 | ![white-snow-and-a-tree_light](app/static/wallpapers/white-snow-and-a-tree_light.png) | white-snow-and-a-tree_light |
 | ![white-sphere_black-and-white](app/static/wallpapers/white-sphere_black-and-white.png) | white-sphere_black-and-white |
+| ![wide-tokyonight-skyline](app/static/wallpapers/wide-tokyonight-skyline.png) | wide-tokyonight-skyline |
 | ![windows-by-night_dark](app/static/wallpapers/windows-by-night_dark.png) | windows-by-night_dark |
 | ![windows-problems_flat_minimalist](app/static/wallpapers/windows-problems_flat_minimalist.png) | windows-problems_flat_minimalist |
 | ![winter-snow-covered-forest](app/static/wallpapers/winter-snow-covered-forest.png) | winter-snow-covered-forest |
