@@ -18,40 +18,40 @@
         <img src="https://img.shields.io/github/repo-size/anotherhadi/awesome-wallpapers?color=5F26E2&labelColor=0b0b0b&style=for-the-badge&logo=github&logoColor=5F26E2"></a>
 </p>
 
-A curated collection of high-quality wallpapers, organized by tags.  
+A curated collection of high-quality wallpapers, organized by tags.
 
-✨ **Browse & Download** wallpapers easily using the web app: [wallpapers.hadi.diy](https://wallpapers.hadi.diy)  
+✨ **Browse & Download** wallpapers easily using the web app: [wallpapers.hadi.icu](https://wallpapers.hadi.icu)  
 📄 **See the full list** of wallpapers in [WALLPAPERS.md](./WALLPAPERS.md)  
 📋 **Useful buttons** to copy the lib.fetchUrl() function for NixOS users
 
 ---
 
-## **Contributing Guidelines**  
+## **Contributing Guidelines**
 
 To maintain quality and consistency, please follow these rules when adding wallpapers:  
 Wallpapers are stored in the `./app/static/wallpapers` directory.
 
-### **File Naming Convention**  
+### **File Naming Convention**
 
-Each wallpaper file must follow this format:  
+Each wallpaper file must follow this format:
 
 ```
 wallpaper-name_tag1_tag2.png
 ```
 
-✅ **Rules:**  
+✅ **Rules:**
 
-- The wallpaper name must be lowercase letters only, using `-` as a separator.  
-- Tags (if present) must be **lowercase**, separated by `_`, and can only contain letters and `-`.  
-- **GIFs must include the "animated" tag.**  
-- If a GIF version exists, a **static PNG version must also exist**, using the same name with a `"static"` tag.  
-- **Accepted formats:** PNG, JPG, and GIF only.  
+- The wallpaper name must be lowercase letters only, using `-` as a separator.
+- Tags (if present) must be **lowercase**, separated by `_`, and can only contain letters and `-`.
+- **GIFs must include the "animated" tag.**
+- If a GIF version exists, a **static PNG version must also exist**, using the same name with a `"static"` tag.
+- **Accepted formats:** PNG, JPG, and GIF only.
 
-### **Content Requirements**  
+### **Content Requirements**
 
 ✔ **Only high-quality wallpapers** (avoid blurry, pixelated, or low-resolution images).  
 ❌ **No NSFW content.**  
-❌ **No copyrighted images.**  
+❌ **No copyrighted images.**
 
 Thank you for contributing! 🚀
 
