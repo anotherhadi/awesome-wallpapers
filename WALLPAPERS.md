@@ -5,11 +5,13 @@
 | ![a-car-and-a-cloud](app/static/wallpapers/a-car-and-a-cloud.png) | a-car-and-a-cloud |
 | ![a-purple-planet_purple](app/static/wallpapers/a-purple-planet_purple.png) | a-purple-planet_purple |
 | ![a-street-in-the-dark](app/static/wallpapers/a-street-in-the-dark.png) | a-street-in-the-dark |
+| ![a-violet-blur](app/static/wallpapers/a-violet-blur.png) | a-violet-blur |
 | ![abstract-colorful](app/static/wallpapers/abstract-colorful.png) | abstract-colorful |
 | ![abstract_green](app/static/wallpapers/abstract_green.png) | abstract_green |
 | ![acrylic](app/static/wallpapers/acrylic.png) | acrylic |
 | ![alone-cloud_dark](app/static/wallpapers/alone-cloud_dark.png) | alone-cloud_dark |
 | ![anime-skyline_purple](app/static/wallpapers/anime-skyline_purple.png) | anime-skyline_purple |
+| ![another-mountain](app/static/wallpapers/another-mountain.png) | another-mountain |
 | ![another-one](app/static/wallpapers/another-one.png) | another-one |
 | ![another-planet-with-grass_blue](app/static/wallpapers/another-planet-with-grass_blue.png) | another-planet-with-grass_blue |
 | ![another-sky_light](app/static/wallpapers/another-sky_light.png) | another-sky_light |
