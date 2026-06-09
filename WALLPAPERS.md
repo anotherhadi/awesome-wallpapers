@@ -25,6 +25,7 @@
 | ![bike-and-a-cat](app/static/wallpapers/bike-and-a-cat.png) | bike-and-a-cat |
 | ![black-and-white-forest_minimalist_black-and-white](app/static/wallpapers/black-and-white-forest_minimalist_black-and-white.png) | black-and-white-forest_minimalist_black-and-white |
 | ![black-grey-and-white](app/static/wallpapers/black-grey-and-white.png) | black-grey-and-white |
+| ![black-moutains-and-a-city](app/static/wallpapers/black-moutains-and-a-city.png) | black-moutains-and-a-city |
 | ![black-oil-2_dark](app/static/wallpapers/black-oil-2_dark.png) | black-oil-2_dark |
 | ![black-oil-3_dark](app/static/wallpapers/black-oil-3_dark.png) | black-oil-3_dark |
 | ![black-oil_dark](app/static/wallpapers/black-oil_dark.png) | black-oil_dark |
