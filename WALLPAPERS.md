@@ -188,3 +188,4 @@
 | ![sakura_pixelart_light_animated](app/static/wallpapers/sakura_pixelart_light_animated.gif) | sakura_pixelart_light_animated |
 | ![the-cpu-border_animated_black](app/static/wallpapers/the-cpu-border_animated_black.gif) | the-cpu-border_animated_black |
 | ![the-cpu_animated_black](app/static/wallpapers/the-cpu_animated_black.gif) | the-cpu_animated_black |
+| ![cyborg-tiger_cyberpunk_neon](app/static/wallpapers/cyborg-tiger_cyberpunk_neon.png) | cyborg-tiger_cyberpunk_neon |
