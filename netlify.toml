@@ -1,4 +1,0 @@
-[build]
-  base = "app"
-  publish = "build"
-  command = "pnpm build"

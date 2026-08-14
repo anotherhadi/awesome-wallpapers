@@ -1,190 +1,219 @@
 # Wallpapers
 
-| Wallpaper | Name |
-|-----------|------|
-| ![a-car-and-a-cloud](app/static/wallpapers/a-car-and-a-cloud.png) | a-car-and-a-cloud |
-| ![a-purple-planet_purple](app/static/wallpapers/a-purple-planet_purple.png) | a-purple-planet_purple |
-| ![a-street-in-the-dark](app/static/wallpapers/a-street-in-the-dark.png) | a-street-in-the-dark |
-| ![a-violet-blur](app/static/wallpapers/a-violet-blur.png) | a-violet-blur |
-| ![abstract-colorful](app/static/wallpapers/abstract-colorful.png) | abstract-colorful |
-| ![abstract_green](app/static/wallpapers/abstract_green.png) | abstract_green |
-| ![acrylic](app/static/wallpapers/acrylic.png) | acrylic |
-| ![alone-cloud_dark](app/static/wallpapers/alone-cloud_dark.png) | alone-cloud_dark |
-| ![anime-skyline_purple](app/static/wallpapers/anime-skyline_purple.png) | anime-skyline_purple |
-| ![another-mountain](app/static/wallpapers/another-mountain.png) | another-mountain |
-| ![another-one](app/static/wallpapers/another-one.png) | another-one |
-| ![another-planet-with-grass_blue](app/static/wallpapers/another-planet-with-grass_blue.png) | another-planet-with-grass_blue |
-| ![another-sky_light](app/static/wallpapers/another-sky_light.png) | another-sky_light |
-| ![aquarium_blue](app/static/wallpapers/aquarium_blue.png) | aquarium_blue |
-| ![art-lake](app/static/wallpapers/art-lake.png) | art-lake |
-| ![astronaut](app/static/wallpapers/astronaut.png) | astronaut |
-| ![aurora](app/static/wallpapers/aurora.png) | aurora |
-| ![barcode_minimalist_dark](app/static/wallpapers/barcode_minimalist_dark.png) | barcode_minimalist_dark |
-| ![beach-landscape](app/static/wallpapers/beach-landscape.png) | beach-landscape |
-| ![beach-path](app/static/wallpapers/beach-path.png) | beach-path |
-| ![bike-and-a-cat](app/static/wallpapers/bike-and-a-cat.png) | bike-and-a-cat |
-| ![black-and-white-forest_minimalist_black-and-white](app/static/wallpapers/black-and-white-forest_minimalist_black-and-white.png) | black-and-white-forest_minimalist_black-and-white |
-| ![black-grey-and-white](app/static/wallpapers/black-grey-and-white.png) | black-grey-and-white |
-| ![black-moutains-and-a-city](app/static/wallpapers/black-moutains-and-a-city.png) | black-moutains-and-a-city |
-| ![black-oil-2_dark](app/static/wallpapers/black-oil-2_dark.png) | black-oil-2_dark |
-| ![black-oil-3_dark](app/static/wallpapers/black-oil-3_dark.png) | black-oil-3_dark |
-| ![black-oil_dark](app/static/wallpapers/black-oil_dark.png) | black-oil_dark |
-| ![black-waves_black-and-white](app/static/wallpapers/black-waves_black-and-white.png) | black-waves_black-and-white |
-| ![blue-galaxy-waves](app/static/wallpapers/blue-galaxy-waves.png) | blue-galaxy-waves |
-| ![blue-waves_blue](app/static/wallpapers/blue-waves_blue.png) | blue-waves_blue |
-| ![boat-and-purple](app/static/wallpapers/boat-and-purple.png) | boat-and-purple |
-| ![borrowed-time](app/static/wallpapers/borrowed-time.png) | borrowed-time |
-| ![cat-vibin](app/static/wallpapers/cat-vibin.png) | cat-vibin |
-| ![cat-watching-the-star_pixelart_purple_static](app/static/wallpapers/cat-watching-the-star_pixelart_purple_static.png) | cat-watching-the-star_pixelart_purple_static |
-| ![catstraunaut_blue](app/static/wallpapers/catstraunaut_blue.png) | catstraunaut_blue |
-| ![cerf_dark_pixelart](app/static/wallpapers/cerf_dark_pixelart.png) | cerf_dark_pixelart |
-| ![city-at-night](app/static/wallpapers/city-at-night.png) | city-at-night |
-| ![city-on-water](app/static/wallpapers/city-on-water.png) | city-on-water |
-| ![cloud-in-the-sky_purple](app/static/wallpapers/cloud-in-the-sky_purple.png) | cloud-in-the-sky_purple |
-| ![clouds-dodge-the-moon-2](app/static/wallpapers/clouds-dodge-the-moon-2.png) | clouds-dodge-the-moon-2 |
-| ![clouds-in-the-sky-2](app/static/wallpapers/clouds-in-the-sky-2.png) | clouds-in-the-sky-2 |
-| ![clouds-in-the-sky-3](app/static/wallpapers/clouds-in-the-sky-3.png) | clouds-in-the-sky-3 |
-| ![clouds-in-the-sky-4_light](app/static/wallpapers/clouds-in-the-sky-4_light.png) | clouds-in-the-sky-4_light |
-| ![clouds-in-the-sky](app/static/wallpapers/clouds-in-the-sky.png) | clouds-in-the-sky |
-| ![coffee-shop](app/static/wallpapers/coffee-shop.png) | coffee-shop |
-| ![colorful-planets](app/static/wallpapers/colorful-planets.png) | colorful-planets |
-| ![couch_orange](app/static/wallpapers/couch_orange.png) | couch_orange |
-| ![cyber-ascii](app/static/wallpapers/cyber-ascii.png) | cyber-ascii |
-| ![dark-forest_dark](app/static/wallpapers/dark-forest_dark.png) | dark-forest_dark |
-| ![dark-magical-forest-desktop-wallpaper](app/static/wallpapers/dark-magical-forest-desktop-wallpaper.png) | dark-magical-forest-desktop-wallpaper |
-| ![dark-magical-forest](app/static/wallpapers/dark-magical-forest.png) | dark-magical-forest |
-| ![dark-starfields](app/static/wallpapers/dark-starfields.png) | dark-starfields |
-| ![degirled](app/static/wallpapers/degirled.png) | degirled |
-| ![diner-lonely-road](app/static/wallpapers/diner-lonely-road.png) | diner-lonely-road |
-| ![drawing_art_dark](app/static/wallpapers/drawing_art_dark.png) | drawing_art_dark |
-| ![dry-your-laundry](app/static/wallpapers/dry-your-laundry.png) | dry-your-laundry |
-| ![evil-corp-keyboard_purple](app/static/wallpapers/evil-corp-keyboard_purple.png) | evil-corp-keyboard_purple |
-| ![flying-comets-clouds](app/static/wallpapers/flying-comets-clouds.png) | flying-comets-clouds |
-| ![forest-bridge](app/static/wallpapers/forest-bridge.png) | forest-bridge |
-| ![forest-mountains-and-cloud_dark_black-and-white](app/static/wallpapers/forest-mountains-and-cloud_dark_black-and-white.png) | forest-mountains-and-cloud_dark_black-and-white |
-| ![forest-under-the-clouds](app/static/wallpapers/forest-under-the-clouds.png) | forest-under-the-clouds |
-| ![fractal](app/static/wallpapers/fractal.png) | fractal |
-| ![free-astronaut_catppuccin](app/static/wallpapers/free-astronaut_catppuccin.png) | free-astronaut_catppuccin |
-| ![fsociety](app/static/wallpapers/fsociety.png) | fsociety |
-| ![fsociety_red](app/static/wallpapers/fsociety_red.png) | fsociety_red |
-| ![fuck-society-no-text](app/static/wallpapers/fuck-society-no-text.png) | fuck-society-no-text |
-| ![fuck-society](app/static/wallpapers/fuck-society.png) | fuck-society |
-| ![fuji_dark](app/static/wallpapers/fuji_dark.png) | fuji_dark |
-| ![fuji_light](app/static/wallpapers/fuji_light.png) | fuji_light |
-| ![galaxy-grey_pixelart](app/static/wallpapers/galaxy-grey_pixelart.png) | galaxy-grey_pixelart |
-| ![galaxy_dark](app/static/wallpapers/galaxy_dark.png) | galaxy_dark |
-| ![galaxy_pixelart_purple](app/static/wallpapers/galaxy_pixelart_purple.png) | galaxy_pixelart_purple |
-| ![girl-watching-the-cloud_blue](app/static/wallpapers/girl-watching-the-cloud_blue.png) | girl-watching-the-cloud_blue |
-| ![glacier-2](app/static/wallpapers/glacier-2.png) | glacier-2 |
-| ![glacier-3](app/static/wallpapers/glacier-3.png) | glacier-3 |
-| ![glacier](app/static/wallpapers/glacier.png) | glacier |
-| ![glitches](app/static/wallpapers/glitches.png) | glitches |
-| ![gradient-pb](app/static/wallpapers/gradient-pb.png) | gradient-pb |
-| ![grey-mountains_grey](app/static/wallpapers/grey-mountains_grey.png) | grey-mountains_grey |
-| ![grey-road_grey](app/static/wallpapers/grey-road_grey.png) | grey-road_grey |
-| ![grue_blue](app/static/wallpapers/grue_blue.png) | grue_blue |
-| ![hand-blocking-the-sun_blue](app/static/wallpapers/hand-blocking-the-sun_blue.png) | hand-blocking-the-sun_blue |
-| ![hands_black-and-white](app/static/wallpapers/hands_black-and-white.png) | hands_black-and-white |
-| ![hello-friend_black-and-white](app/static/wallpapers/hello-friend_black-and-white.png) | hello-friend_black-and-white |
-| ![horizon](app/static/wallpapers/horizon.png) | horizon |
-| ![hue-1_minimalist](app/static/wallpapers/hue-1_minimalist.png) | hue-1_minimalist |
-| ![hue-2_minimalist](app/static/wallpapers/hue-2_minimalist.png) | hue-2_minimalist |
-| ![hue-3_minimalist](app/static/wallpapers/hue-3_minimalist.png) | hue-3_minimalist |
-| ![hue-4_minimalist](app/static/wallpapers/hue-4_minimalist.png) | hue-4_minimalist |
-| ![hue-5_minimalist](app/static/wallpapers/hue-5_minimalist.png) | hue-5_minimalist |
-| ![hue-6_minimalist_dark](app/static/wallpapers/hue-6_minimalist_dark.png) | hue-6_minimalist_dark |
-| ![hue-7_minimalist_dark](app/static/wallpapers/hue-7_minimalist_dark.png) | hue-7_minimalist_dark |
-| ![it-is-some-waves_dark](app/static/wallpapers/it-is-some-waves_dark.png) | it-is-some-waves_dark |
-| ![it-is-the-ocean](app/static/wallpapers/it-is-the-ocean.png) | it-is-the-ocean |
-| ![japan-houses](app/static/wallpapers/japan-houses.png) | japan-houses |
-| ![japan-moutains_black-and-white](app/static/wallpapers/japan-moutains_black-and-white.png) | japan-moutains_black-and-white |
-| ![lana-silhouette](app/static/wallpapers/lana-silhouette.png) | lana-silhouette |
-| ![landscape_purple](app/static/wallpapers/landscape_purple.png) | landscape_purple |
-| ![lavender-cat_purple](app/static/wallpapers/lavender-cat_purple.png) | lavender-cat_purple |
-| ![leef_dark_purple_minimalist](app/static/wallpapers/leef_dark_purple_minimalist.png) | leef_dark_purple_minimalist |
-| ![lights-in-the-dark_dark](app/static/wallpapers/lights-in-the-dark_dark.png) | lights-in-the-dark_dark |
-| ![lofi-setup_blue_purple](app/static/wallpapers/lofi-setup_blue_purple.png) | lofi-setup_blue_purple |
-| ![lofi-urban_blue](app/static/wallpapers/lofi-urban_blue.png) | lofi-urban_blue |
-| ![magma](app/static/wallpapers/magma.png) | magma |
-| ![medusa_art_dark](app/static/wallpapers/medusa_art_dark.png) | medusa_art_dark |
-| ![moroco](app/static/wallpapers/moroco.png) | moroco |
-| ![mosaic_dark](app/static/wallpapers/mosaic_dark.png) | mosaic_dark |
-| ![moutain](app/static/wallpapers/moutain.png) | moutain |
-| ![moutains-and-a-lac-night_purple](app/static/wallpapers/moutains-and-a-lac-night_purple.png) | moutains-and-a-lac-night_purple |
-| ![moutains-and-a-lac_black-and-white](app/static/wallpapers/moutains-and-a-lac_black-and-white.png) | moutains-and-a-lac_black-and-white |
-| ![moutains-and-a-lac_blue](app/static/wallpapers/moutains-and-a-lac_blue.png) | moutains-and-a-lac_blue |
-| ![moutains-and-an-orange-sun](app/static/wallpapers/moutains-and-an-orange-sun.png) | moutains-and-an-orange-sun |
-| ![moutains-and-stars_black](app/static/wallpapers/moutains-and-stars_black.png) | moutains-and-stars_black |
-| ![moutains-justin_white](app/static/wallpapers/moutains-justin_white.png) | moutains-justin_white |
-| ![moutains-on-top-of-clouds](app/static/wallpapers/moutains-on-top-of-clouds.png) | moutains-on-top-of-clouds |
-| ![nasa-japan_dark](app/static/wallpapers/nasa-japan_dark.png) | nasa-japan_dark |
-| ![nepal](app/static/wallpapers/nepal.png) | nepal |
-| ![night-fairycore-forest](app/static/wallpapers/night-fairycore-forest.png) | night-fairycore-forest |
-| ![night-forest_dark](app/static/wallpapers/night-forest_dark.png) | night-forest_dark |
-| ![night-road_purple](app/static/wallpapers/night-road_purple.png) | night-road_purple |
-| ![night-sky-with-snowflakes](app/static/wallpapers/night-sky-with-snowflakes.png) | night-sky-with-snowflakes |
-| ![nix_minimalist_purple](app/static/wallpapers/nix_minimalist_purple.png) | nix_minimalist_purple |
-| ![not-earth_dark](app/static/wallpapers/not-earth_dark.png) | not-earth_dark |
-| ![nothin-to-see-here_pink_dark](app/static/wallpapers/nothin-to-see-here_pink_dark.png) | nothin-to-see-here_pink_dark |
-| ![oled-mountains](app/static/wallpapers/oled-mountains.png) | oled-mountains |
-| ![oneway-street_purple](app/static/wallpapers/oneway-street_purple.png) | oneway-street_purple |
-| ![openbox_dark](app/static/wallpapers/openbox_dark.png) | openbox_dark |
-| ![paint-loop_art](app/static/wallpapers/paint-loop_art.png) | paint-loop_art |
-| ![pastel-car](app/static/wallpapers/pastel-car.png) | pastel-car |
-| ![pastel-window](app/static/wallpapers/pastel-window.png) | pastel-window |
-| ![pink-clouds](app/static/wallpapers/pink-clouds.png) | pink-clouds |
-| ![pink-sea](app/static/wallpapers/pink-sea.png) | pink-sea |
-| ![pink-sky-moutains_minimalist](app/static/wallpapers/pink-sky-moutains_minimalist.png) | pink-sky-moutains_minimalist |
-| ![purple-japan_purple](app/static/wallpapers/purple-japan_purple.png) | purple-japan_purple |
-| ![purple-moon_purple](app/static/wallpapers/purple-moon_purple.png) | purple-moon_purple |
-| ![railroad-cat](app/static/wallpapers/railroad-cat.png) | railroad-cat |
-| ![rain-pixel](app/static/wallpapers/rain-pixel.png) | rain-pixel |
-| ![rains-dark_dark](app/static/wallpapers/rains-dark_dark.png) | rains-dark_dark |
-| ![rocket-launch_light](app/static/wallpapers/rocket-launch_light.png) | rocket-launch_light |
-| ![rocks-misty_light](app/static/wallpapers/rocks-misty_light.png) | rocks-misty_light |
-| ![rose-sky_rose](app/static/wallpapers/rose-sky_rose.png) | rose-sky_rose |
-| ![sakura_pixelart_light_static](app/static/wallpapers/sakura_pixelart_light_static.png) | sakura_pixelart_light_static |
-| ![samurai_pixel_white](app/static/wallpapers/samurai_pixel_white.png) | samurai_pixel_white |
-| ![saturn-rings](app/static/wallpapers/saturn-rings.png) | saturn-rings |
-| ![sea-waves-pink-sunset](app/static/wallpapers/sea-waves-pink-sunset.png) | sea-waves-pink-sunset |
-| ![sea_blue](app/static/wallpapers/sea_blue.png) | sea_blue |
-| ![snow-and-a-tree_white](app/static/wallpapers/snow-and-a-tree_white.png) | snow-and-a-tree_white |
-| ![snowy-japan-street](app/static/wallpapers/snowy-japan-street.png) | snowy-japan-street |
-| ![space-2](app/static/wallpapers/space-2.png) | space-2 |
-| ![space-portal-galaxy](app/static/wallpapers/space-portal-galaxy.png) | space-portal-galaxy |
-| ![space_dark](app/static/wallpapers/space_dark.png) | space_dark |
-| ![strange-forms_blue_purple](app/static/wallpapers/strange-forms_blue_purple.png) | strange-forms_blue_purple |
-| ![sun-is-shining](app/static/wallpapers/sun-is-shining.png) | sun-is-shining |
-| ![sunny-winter-forest-river](app/static/wallpapers/sunny-winter-forest-river.png) | sunny-winter-forest-river |
-| ![sushi-keycap_dark](app/static/wallpapers/sushi-keycap_dark.png) | sushi-keycap_dark |
-| ![swirls](app/static/wallpapers/swirls.png) | swirls |
-| ![thats-a-lot-of-stars](app/static/wallpapers/thats-a-lot-of-stars.png) | thats-a-lot-of-stars |
-| ![the-cloud-is-hidding-the-moon_dark](app/static/wallpapers/the-cloud-is-hidding-the-moon_dark.png) | the-cloud-is-hidding-the-moon_dark |
-| ![the-cpu-border_static_black](app/static/wallpapers/the-cpu-border_static_black.png) | the-cpu-border_static_black |
-| ![the-cpu_static_black](app/static/wallpapers/the-cpu_static_black.png) | the-cpu_static_black |
-| ![time-to-ski_blue](app/static/wallpapers/time-to-ski_blue.png) | time-to-ski_blue |
-| ![tokyo-skyscraper_dark](app/static/wallpapers/tokyo-skyscraper_dark.png) | tokyo-skyscraper_dark |
-| ![tokyo](app/static/wallpapers/tokyo.png) | tokyo |
-| ![tokyonight-skyline](app/static/wallpapers/tokyonight-skyline.png) | tokyonight-skyline |
-| ![topology_dark](app/static/wallpapers/topology_dark.png) | topology_dark |
-| ![train-and-lake_blue](app/static/wallpapers/train-and-lake_blue.png) | train-and-lake_blue |
-| ![train-on-a-bridge_purple](app/static/wallpapers/train-on-a-bridge_purple.png) | train-on-a-bridge_purple |
-| ![train_light](app/static/wallpapers/train_light.png) | train_light |
-| ![under-the-bridge_blue](app/static/wallpapers/under-the-bridge_blue.png) | under-the-bridge_blue |
-| ![vanilla_pink_purple](app/static/wallpapers/vanilla_pink_purple.png) | vanilla_pink_purple |
-| ![vector-moutains_blue_dark](app/static/wallpapers/vector-moutains_blue_dark.png) | vector-moutains_blue_dark |
-| ![velvet-moutains_minimalist_dark](app/static/wallpapers/velvet-moutains_minimalist_dark.png) | velvet-moutains_minimalist_dark |
-| ![voyager-9](app/static/wallpapers/voyager-9.png) | voyager-9 |
-| ![warm-textured-gradient](app/static/wallpapers/warm-textured-gradient.png) | warm-textured-gradient |
-| ![wave-dark_minimalist_black-and-white](app/static/wallpapers/wave-dark_minimalist_black-and-white.png) | wave-dark_minimalist_black-and-white |
-| ![white-samurai](app/static/wallpapers/white-samurai.png) | white-samurai |
-| ![white-snow-and-a-tree_light](app/static/wallpapers/white-snow-and-a-tree_light.png) | white-snow-and-a-tree_light |
-| ![white-sphere_black-and-white](app/static/wallpapers/white-sphere_black-and-white.png) | white-sphere_black-and-white |
-| ![wide-tokyonight-skyline](app/static/wallpapers/wide-tokyonight-skyline.png) | wide-tokyonight-skyline |
-| ![windows-by-night_dark](app/static/wallpapers/windows-by-night_dark.png) | windows-by-night_dark |
-| ![windows-problems_flat_minimalist](app/static/wallpapers/windows-problems_flat_minimalist.png) | windows-problems_flat_minimalist |
-| ![winter-snow-covered-forest](app/static/wallpapers/winter-snow-covered-forest.png) | winter-snow-covered-forest |
-| ![cat-watching-the-star_pixelart_purple_animated](app/static/wallpapers/cat-watching-the-star_pixelart_purple_animated.gif) | cat-watching-the-star_pixelart_purple_animated |
-| ![sakura_pixelart_light_animated](app/static/wallpapers/sakura_pixelart_light_animated.gif) | sakura_pixelart_light_animated |
-| ![the-cpu-border_animated_black](app/static/wallpapers/the-cpu-border_animated_black.gif) | the-cpu-border_animated_black |
-| ![the-cpu_animated_black](app/static/wallpapers/the-cpu_animated_black.gif) | the-cpu_animated_black |
+[1 Column](WALLPAPERS.md) · [2 Columns](WALLPAPERS-2COL.md) · [3 Columns](WALLPAPERS-3COL.md)
+
+<details>
+<summary>Tags</summary>
+
+- [animated](tags/animated.md)
+- [art](tags/art.md)
+- [black](tags/black.md)
+- [black-and-white](tags/black-and-white.md)
+- [blue](tags/blue.md)
+- [catppuccin](tags/catppuccin.md)
+- [dark](tags/dark.md)
+- [flat](tags/flat.md)
+- [green](tags/green.md)
+- [grey](tags/grey.md)
+- [light](tags/light.md)
+- [minimalist](tags/minimalist.md)
+- [orange](tags/orange.md)
+- [pink](tags/pink.md)
+- [pixel](tags/pixel.md)
+- [pixelart](tags/pixelart.md)
+- [purple](tags/purple.md)
+- [red](tags/red.md)
+- [rose](tags/rose.md)
+- [static](tags/static.md)
+- [white](tags/white.md)
+
+</details>
+
+| Preview | Name | Tags |
+|---------|------|------|
+| ![abstract_green](wallpapers/abstract_green.png) | abstract | [green](tags/green.md) |
+| ![abstract-colorful](wallpapers/abstract-colorful.png) | abstract-colorful |  |
+| ![a-car-and-a-cloud](wallpapers/a-car-and-a-cloud.png) | a-car-and-a-cloud |  |
+| ![acrylic](wallpapers/acrylic.png) | acrylic |  |
+| ![alone-cloud_dark](wallpapers/alone-cloud_dark.png) | alone-cloud | [dark](tags/dark.md) |
+| ![anime-skyline_purple](wallpapers/anime-skyline_purple.png) | anime-skyline | [purple](tags/purple.md) |
+| ![another-mountain](wallpapers/another-mountain.png) | another-mountain |  |
+| ![another-one](wallpapers/another-one.png) | another-one |  |
+| ![another-planet-with-grass_blue](wallpapers/another-planet-with-grass_blue.png) | another-planet-with-grass | [blue](tags/blue.md) |
+| ![another-sky_light](wallpapers/another-sky_light.png) | another-sky | [light](tags/light.md) |
+| ![a-purple-planet_purple](wallpapers/a-purple-planet_purple.png) | a-purple-planet | [purple](tags/purple.md) |
+| ![aquarium_blue](wallpapers/aquarium_blue.png) | aquarium | [blue](tags/blue.md) |
+| ![art-lake](wallpapers/art-lake.png) | art-lake |  |
+| ![a-street-in-the-dark](wallpapers/a-street-in-the-dark.png) | a-street-in-the-dark |  |
+| ![astronaut](wallpapers/astronaut.png) | astronaut |  |
+| ![aurora](wallpapers/aurora.png) | aurora |  |
+| ![a-violet-blur](wallpapers/a-violet-blur.png) | a-violet-blur |  |
+| ![barcode_minimalist_dark](wallpapers/barcode_minimalist_dark.png) | barcode | [minimalist](tags/minimalist.md), [dark](tags/dark.md) |
+| ![beach-landscape](wallpapers/beach-landscape.png) | beach-landscape |  |
+| ![beach-path](wallpapers/beach-path.png) | beach-path |  |
+| ![bike-and-a-cat](wallpapers/bike-and-a-cat.png) | bike-and-a-cat |  |
+| ![black-and-white-forest_minimalist_black-and-white](wallpapers/black-and-white-forest_minimalist_black-and-white.png) | black-and-white-forest | [minimalist](tags/minimalist.md), [black-and-white](tags/black-and-white.md) |
+| ![black-grey-and-white](wallpapers/black-grey-and-white.png) | black-grey-and-white |  |
+| ![black-moutains-and-a-city](wallpapers/black-moutains-and-a-city.png) | black-moutains-and-a-city |  |
+| ![black-oil_dark](wallpapers/black-oil_dark.png) | black-oil | [dark](tags/dark.md) |
+| ![black-oil-2_dark](wallpapers/black-oil-2_dark.png) | black-oil-2 | [dark](tags/dark.md) |
+| ![black-oil-3_dark](wallpapers/black-oil-3_dark.png) | black-oil-3 | [dark](tags/dark.md) |
+| ![black-waves_black-and-white](wallpapers/black-waves_black-and-white.png) | black-waves | [black-and-white](tags/black-and-white.md) |
+| ![blue-galaxy-waves](wallpapers/blue-galaxy-waves.png) | blue-galaxy-waves |  |
+| ![blue-waves_blue](wallpapers/blue-waves_blue.png) | blue-waves | [blue](tags/blue.md) |
+| ![boat-and-purple](wallpapers/boat-and-purple.png) | boat-and-purple |  |
+| ![borrowed-time](wallpapers/borrowed-time.png) | borrowed-time |  |
+| ![catstraunaut_blue](wallpapers/catstraunaut_blue.png) | catstraunaut | [blue](tags/blue.md) |
+| ![cat-vibin](wallpapers/cat-vibin.png) | cat-vibin |  |
+| ![cat-watching-the-star_pixelart_purple_animated](wallpapers/cat-watching-the-star_pixelart_purple_animated.gif) | cat-watching-the-star | [pixelart](tags/pixelart.md), [purple](tags/purple.md), [animated](tags/animated.md) |
+| ![cat-watching-the-star_pixelart_purple_static](wallpapers/cat-watching-the-star_pixelart_purple_static.png) | cat-watching-the-star | [pixelart](tags/pixelart.md), [purple](tags/purple.md), [static](tags/static.md) |
+| ![cerf_dark_pixelart](wallpapers/cerf_dark_pixelart.png) | cerf | [dark](tags/dark.md), [pixelart](tags/pixelart.md) |
+| ![city-at-night](wallpapers/city-at-night.png) | city-at-night |  |
+| ![city-on-water](wallpapers/city-on-water.png) | city-on-water |  |
+| ![cloud-in-the-sky_purple](wallpapers/cloud-in-the-sky_purple.png) | cloud-in-the-sky | [purple](tags/purple.md) |
+| ![clouds-dodge-the-moon-2](wallpapers/clouds-dodge-the-moon-2.png) | clouds-dodge-the-moon-2 |  |
+| ![clouds-in-the-sky](wallpapers/clouds-in-the-sky.png) | clouds-in-the-sky |  |
+| ![clouds-in-the-sky-2](wallpapers/clouds-in-the-sky-2.png) | clouds-in-the-sky-2 |  |
+| ![clouds-in-the-sky-3](wallpapers/clouds-in-the-sky-3.png) | clouds-in-the-sky-3 |  |
+| ![clouds-in-the-sky-4_light](wallpapers/clouds-in-the-sky-4_light.png) | clouds-in-the-sky-4 | [light](tags/light.md) |
+| ![coffee-shop](wallpapers/coffee-shop.png) | coffee-shop |  |
+| ![colorful-planets](wallpapers/colorful-planets.png) | colorful-planets |  |
+| ![couch_orange](wallpapers/couch_orange.png) | couch | [orange](tags/orange.md) |
+| ![cyber-ascii](wallpapers/cyber-ascii.png) | cyber-ascii |  |
+| ![dark-forest_dark](wallpapers/dark-forest_dark.png) | dark-forest | [dark](tags/dark.md) |
+| ![dark-magical-forest](wallpapers/dark-magical-forest.png) | dark-magical-forest |  |
+| ![dark-magical-forest-desktop-wallpaper](wallpapers/dark-magical-forest-desktop-wallpaper.png) | dark-magical-forest-desktop-wallpaper |  |
+| ![dark-starfields](wallpapers/dark-starfields.png) | dark-starfields |  |
+| ![degirled](wallpapers/degirled.png) | degirled |  |
+| ![diner-lonely-road](wallpapers/diner-lonely-road.png) | diner-lonely-road |  |
+| ![drawing_art_dark](wallpapers/drawing_art_dark.png) | drawing | [art](tags/art.md), [dark](tags/dark.md) |
+| ![dry-your-laundry](wallpapers/dry-your-laundry.png) | dry-your-laundry |  |
+| ![evil-corp-keyboard_purple](wallpapers/evil-corp-keyboard_purple.png) | evil-corp-keyboard | [purple](tags/purple.md) |
+| ![flying-comets-clouds](wallpapers/flying-comets-clouds.png) | flying-comets-clouds |  |
+| ![forest-bridge](wallpapers/forest-bridge.png) | forest-bridge |  |
+| ![forest-mountains-and-cloud_dark_black-and-white](wallpapers/forest-mountains-and-cloud_dark_black-and-white.png) | forest-mountains-and-cloud | [dark](tags/dark.md), [black-and-white](tags/black-and-white.md) |
+| ![forest-under-the-clouds](wallpapers/forest-under-the-clouds.png) | forest-under-the-clouds |  |
+| ![fractal](wallpapers/fractal.png) | fractal |  |
+| ![free-astronaut_catppuccin](wallpapers/free-astronaut_catppuccin.png) | free-astronaut | [catppuccin](tags/catppuccin.md) |
+| ![fsociety_red](wallpapers/fsociety_red.png) | fsociety | [red](tags/red.md) |
+| ![fsociety](wallpapers/fsociety.png) | fsociety |  |
+| ![fuck-society](wallpapers/fuck-society.png) | fuck-society |  |
+| ![fuck-society-no-text](wallpapers/fuck-society-no-text.png) | fuck-society-no-text |  |
+| ![fuji_dark](wallpapers/fuji_dark.png) | fuji | [dark](tags/dark.md) |
+| ![fuji_light](wallpapers/fuji_light.png) | fuji | [light](tags/light.md) |
+| ![galaxy_dark](wallpapers/galaxy_dark.png) | galaxy | [dark](tags/dark.md) |
+| ![galaxy_pixelart_purple](wallpapers/galaxy_pixelart_purple.png) | galaxy | [pixelart](tags/pixelart.md), [purple](tags/purple.md) |
+| ![galaxy-grey_pixelart](wallpapers/galaxy-grey_pixelart.png) | galaxy-grey | [pixelart](tags/pixelart.md) |
+| ![girl-watching-the-cloud_blue](wallpapers/girl-watching-the-cloud_blue.png) | girl-watching-the-cloud | [blue](tags/blue.md) |
+| ![glacier](wallpapers/glacier.png) | glacier |  |
+| ![glacier-2](wallpapers/glacier-2.png) | glacier-2 |  |
+| ![glacier-3](wallpapers/glacier-3.png) | glacier-3 |  |
+| ![glitches](wallpapers/glitches.png) | glitches |  |
+| ![gradient-pb](wallpapers/gradient-pb.png) | gradient-pb |  |
+| ![grey-mountains_grey](wallpapers/grey-mountains_grey.png) | grey-mountains | [grey](tags/grey.md) |
+| ![grey-road_grey](wallpapers/grey-road_grey.png) | grey-road | [grey](tags/grey.md) |
+| ![grue_blue](wallpapers/grue_blue.png) | grue | [blue](tags/blue.md) |
+| ![hand-blocking-the-sun_blue](wallpapers/hand-blocking-the-sun_blue.png) | hand-blocking-the-sun | [blue](tags/blue.md) |
+| ![hands_black-and-white](wallpapers/hands_black-and-white.png) | hands | [black-and-white](tags/black-and-white.md) |
+| ![hello-friend_black-and-white](wallpapers/hello-friend_black-and-white.png) | hello-friend | [black-and-white](tags/black-and-white.md) |
+| ![horizon](wallpapers/horizon.png) | horizon |  |
+| ![hue-1_minimalist](wallpapers/hue-1_minimalist.png) | hue-1 | [minimalist](tags/minimalist.md) |
+| ![hue-2_minimalist](wallpapers/hue-2_minimalist.png) | hue-2 | [minimalist](tags/minimalist.md) |
+| ![hue-3_minimalist](wallpapers/hue-3_minimalist.png) | hue-3 | [minimalist](tags/minimalist.md) |
+| ![hue-4_minimalist](wallpapers/hue-4_minimalist.png) | hue-4 | [minimalist](tags/minimalist.md) |
+| ![hue-5_minimalist](wallpapers/hue-5_minimalist.png) | hue-5 | [minimalist](tags/minimalist.md) |
+| ![hue-6_minimalist_dark](wallpapers/hue-6_minimalist_dark.png) | hue-6 | [minimalist](tags/minimalist.md), [dark](tags/dark.md) |
+| ![hue-7_minimalist_dark](wallpapers/hue-7_minimalist_dark.png) | hue-7 | [minimalist](tags/minimalist.md), [dark](tags/dark.md) |
+| ![it-is-some-waves_dark](wallpapers/it-is-some-waves_dark.png) | it-is-some-waves | [dark](tags/dark.md) |
+| ![it-is-the-ocean](wallpapers/it-is-the-ocean.png) | it-is-the-ocean |  |
+| ![japan-houses](wallpapers/japan-houses.png) | japan-houses |  |
+| ![japan-moutains_black-and-white](wallpapers/japan-moutains_black-and-white.png) | japan-moutains | [black-and-white](tags/black-and-white.md) |
+| ![lana-silhouette](wallpapers/lana-silhouette.png) | lana-silhouette |  |
+| ![landscape_purple](wallpapers/landscape_purple.png) | landscape | [purple](tags/purple.md) |
+| ![lavender-cat_purple](wallpapers/lavender-cat_purple.png) | lavender-cat | [purple](tags/purple.md) |
+| ![leef_dark_purple_minimalist](wallpapers/leef_dark_purple_minimalist.png) | leef | [dark](tags/dark.md), [purple](tags/purple.md), [minimalist](tags/minimalist.md) |
+| ![lights-in-the-dark_dark](wallpapers/lights-in-the-dark_dark.png) | lights-in-the-dark | [dark](tags/dark.md) |
+| ![lofi-setup_blue_purple](wallpapers/lofi-setup_blue_purple.png) | lofi-setup | [blue](tags/blue.md), [purple](tags/purple.md) |
+| ![lofi-urban_blue](wallpapers/lofi-urban_blue.png) | lofi-urban | [blue](tags/blue.md) |
+| ![magma](wallpapers/magma.png) | magma |  |
+| ![medusa_art_dark](wallpapers/medusa_art_dark.png) | medusa | [art](tags/art.md), [dark](tags/dark.md) |
+| ![moroco](wallpapers/moroco.png) | moroco |  |
+| ![mosaic_dark](wallpapers/mosaic_dark.png) | mosaic | [dark](tags/dark.md) |
+| ![moutain](wallpapers/moutain.png) | moutain |  |
+| ![moutains-and-a-lac_black-and-white](wallpapers/moutains-and-a-lac_black-and-white.png) | moutains-and-a-lac | [black-and-white](tags/black-and-white.md) |
+| ![moutains-and-a-lac_blue](wallpapers/moutains-and-a-lac_blue.png) | moutains-and-a-lac | [blue](tags/blue.md) |
+| ![moutains-and-a-lac-night_purple](wallpapers/moutains-and-a-lac-night_purple.png) | moutains-and-a-lac-night | [purple](tags/purple.md) |
+| ![moutains-and-an-orange-sun](wallpapers/moutains-and-an-orange-sun.png) | moutains-and-an-orange-sun |  |
+| ![moutains-and-stars_black](wallpapers/moutains-and-stars_black.png) | moutains-and-stars | [black](tags/black.md) |
+| ![moutains-justin_white](wallpapers/moutains-justin_white.png) | moutains-justin | [white](tags/white.md) |
+| ![moutains-on-top-of-clouds](wallpapers/moutains-on-top-of-clouds.png) | moutains-on-top-of-clouds |  |
+| ![nasa-japan_dark](wallpapers/nasa-japan_dark.png) | nasa-japan | [dark](tags/dark.md) |
+| ![nepal](wallpapers/nepal.png) | nepal |  |
+| ![night-fairycore-forest](wallpapers/night-fairycore-forest.png) | night-fairycore-forest |  |
+| ![night-forest_dark](wallpapers/night-forest_dark.png) | night-forest | [dark](tags/dark.md) |
+| ![night-road_purple](wallpapers/night-road_purple.png) | night-road | [purple](tags/purple.md) |
+| ![night-sky-with-snowflakes](wallpapers/night-sky-with-snowflakes.png) | night-sky-with-snowflakes |  |
+| ![nix_minimalist_purple](wallpapers/nix_minimalist_purple.png) | nix | [minimalist](tags/minimalist.md), [purple](tags/purple.md) |
+| ![not-earth_dark](wallpapers/not-earth_dark.png) | not-earth | [dark](tags/dark.md) |
+| ![nothin-to-see-here_pink_dark](wallpapers/nothin-to-see-here_pink_dark.png) | nothin-to-see-here | [pink](tags/pink.md), [dark](tags/dark.md) |
+| ![oled-mountains](wallpapers/oled-mountains.png) | oled-mountains |  |
+| ![oneway-street_purple](wallpapers/oneway-street_purple.png) | oneway-street | [purple](tags/purple.md) |
+| ![openbox_dark](wallpapers/openbox_dark.png) | openbox | [dark](tags/dark.md) |
+| ![paint-loop_art](wallpapers/paint-loop_art.png) | paint-loop | [art](tags/art.md) |
+| ![pastel-car](wallpapers/pastel-car.png) | pastel-car |  |
+| ![pastel-window](wallpapers/pastel-window.png) | pastel-window |  |
+| ![pink-clouds](wallpapers/pink-clouds.png) | pink-clouds |  |
+| ![pink-sea](wallpapers/pink-sea.png) | pink-sea |  |
+| ![pink-sky-moutains_minimalist](wallpapers/pink-sky-moutains_minimalist.png) | pink-sky-moutains | [minimalist](tags/minimalist.md) |
+| ![purple-japan_purple](wallpapers/purple-japan_purple.png) | purple-japan | [purple](tags/purple.md) |
+| ![purple-moon_purple](wallpapers/purple-moon_purple.png) | purple-moon | [purple](tags/purple.md) |
+| ![railroad-cat](wallpapers/railroad-cat.png) | railroad-cat |  |
+| ![rain-pixel](wallpapers/rain-pixel.png) | rain-pixel |  |
+| ![rains-dark_dark](wallpapers/rains-dark_dark.png) | rains-dark | [dark](tags/dark.md) |
+| ![rocket-launch_light](wallpapers/rocket-launch_light.png) | rocket-launch | [light](tags/light.md) |
+| ![rocks-misty_light](wallpapers/rocks-misty_light.png) | rocks-misty | [light](tags/light.md) |
+| ![rose-sky_rose](wallpapers/rose-sky_rose.png) | rose-sky | [rose](tags/rose.md) |
+| ![sakura_pixelart_light_animated](wallpapers/sakura_pixelart_light_animated.gif) | sakura | [pixelart](tags/pixelart.md), [light](tags/light.md), [animated](tags/animated.md) |
+| ![sakura_pixelart_light_static](wallpapers/sakura_pixelart_light_static.png) | sakura | [pixelart](tags/pixelart.md), [light](tags/light.md), [static](tags/static.md) |
+| ![samurai_pixel_white](wallpapers/samurai_pixel_white.png) | samurai | [pixel](tags/pixel.md), [white](tags/white.md) |
+| ![saturn-rings](wallpapers/saturn-rings.png) | saturn-rings |  |
+| ![sea_blue](wallpapers/sea_blue.png) | sea | [blue](tags/blue.md) |
+| ![sea-waves-pink-sunset](wallpapers/sea-waves-pink-sunset.png) | sea-waves-pink-sunset |  |
+| ![snow-and-a-tree_white](wallpapers/snow-and-a-tree_white.png) | snow-and-a-tree | [white](tags/white.md) |
+| ![snowy-japan-street](wallpapers/snowy-japan-street.png) | snowy-japan-street |  |
+| ![space_dark](wallpapers/space_dark.png) | space | [dark](tags/dark.md) |
+| ![space-2](wallpapers/space-2.png) | space-2 |  |
+| ![space-portal-galaxy](wallpapers/space-portal-galaxy.png) | space-portal-galaxy |  |
+| ![strange-forms_blue_purple](wallpapers/strange-forms_blue_purple.png) | strange-forms | [blue](tags/blue.md), [purple](tags/purple.md) |
+| ![sun-is-shining](wallpapers/sun-is-shining.png) | sun-is-shining |  |
+| ![sunny-winter-forest-river](wallpapers/sunny-winter-forest-river.png) | sunny-winter-forest-river |  |
+| ![sushi-keycap_dark](wallpapers/sushi-keycap_dark.png) | sushi-keycap | [dark](tags/dark.md) |
+| ![swirls](wallpapers/swirls.png) | swirls |  |
+| ![thats-a-lot-of-stars](wallpapers/thats-a-lot-of-stars.png) | thats-a-lot-of-stars |  |
+| ![the-cloud-is-hidding-the-moon_dark](wallpapers/the-cloud-is-hidding-the-moon_dark.png) | the-cloud-is-hidding-the-moon | [dark](tags/dark.md) |
+| ![the-cpu_animated_black](wallpapers/the-cpu_animated_black.gif) | the-cpu | [animated](tags/animated.md), [black](tags/black.md) |
+| ![the-cpu_static_black](wallpapers/the-cpu_static_black.png) | the-cpu | [static](tags/static.md), [black](tags/black.md) |
+| ![the-cpu-border_animated_black](wallpapers/the-cpu-border_animated_black.gif) | the-cpu-border | [animated](tags/animated.md), [black](tags/black.md) |
+| ![the-cpu-border_static_black](wallpapers/the-cpu-border_static_black.png) | the-cpu-border | [static](tags/static.md), [black](tags/black.md) |
+| ![time-to-ski_blue](wallpapers/time-to-ski_blue.png) | time-to-ski | [blue](tags/blue.md) |
+| ![tokyo](wallpapers/tokyo.png) | tokyo |  |
+| ![tokyonight-skyline](wallpapers/tokyonight-skyline.png) | tokyonight-skyline |  |
+| ![tokyo-skyscraper_dark](wallpapers/tokyo-skyscraper_dark.png) | tokyo-skyscraper | [dark](tags/dark.md) |
+| ![topology_dark](wallpapers/topology_dark.png) | topology | [dark](tags/dark.md) |
+| ![train_light](wallpapers/train_light.png) | train | [light](tags/light.md) |
+| ![train-and-lake_blue](wallpapers/train-and-lake_blue.png) | train-and-lake | [blue](tags/blue.md) |
+| ![train-on-a-bridge_purple](wallpapers/train-on-a-bridge_purple.png) | train-on-a-bridge | [purple](tags/purple.md) |
+| ![under-the-bridge_blue](wallpapers/under-the-bridge_blue.png) | under-the-bridge | [blue](tags/blue.md) |
+| ![vanilla_pink_purple](wallpapers/vanilla_pink_purple.png) | vanilla | [pink](tags/pink.md), [purple](tags/purple.md) |
+| ![vector-moutains_blue_dark](wallpapers/vector-moutains_blue_dark.png) | vector-moutains | [blue](tags/blue.md), [dark](tags/dark.md) |
+| ![velvet-moutains_minimalist_dark](wallpapers/velvet-moutains_minimalist_dark.png) | velvet-moutains | [minimalist](tags/minimalist.md), [dark](tags/dark.md) |
+| ![voyager-9](wallpapers/voyager-9.png) | voyager-9 |  |
+| ![warm-textured-gradient](wallpapers/warm-textured-gradient.png) | warm-textured-gradient |  |
+| ![wave-dark_minimalist_black-and-white](wallpapers/wave-dark_minimalist_black-and-white.png) | wave-dark | [minimalist](tags/minimalist.md), [black-and-white](tags/black-and-white.md) |
+| ![white-samurai](wallpapers/white-samurai.png) | white-samurai |  |
+| ![white-snow-and-a-tree_light](wallpapers/white-snow-and-a-tree_light.png) | white-snow-and-a-tree | [light](tags/light.md) |
+| ![white-sphere_black-and-white](wallpapers/white-sphere_black-and-white.png) | white-sphere | [black-and-white](tags/black-and-white.md) |
+| ![wide-tokyonight-skyline](wallpapers/wide-tokyonight-skyline.png) | wide-tokyonight-skyline |  |
+| ![windows-by-night_dark](wallpapers/windows-by-night_dark.png) | windows-by-night | [dark](tags/dark.md) |
+| ![windows-problems_flat_minimalist](wallpapers/windows-problems_flat_minimalist.png) | windows-problems | [flat](tags/flat.md), [minimalist](tags/minimalist.md) |
+| ![winter-snow-covered-forest](wallpapers/winter-snow-covered-forest.png) | winter-snow-covered-forest |  |
