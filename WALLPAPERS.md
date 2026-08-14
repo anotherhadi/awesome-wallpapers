@@ -37,6 +37,7 @@
 | ![acrylic](wallpapers/acrylic.png) | acrylic |  |
 | ![alone-cloud_dark](wallpapers/alone-cloud_dark.png) | alone-cloud | [dark](tags/dark.md) |
 | ![anime-skyline_purple](wallpapers/anime-skyline_purple.png) | anime-skyline | [purple](tags/purple.md) |
+| ![anime-tux-4k](wallpapers/anime-tux-4k.png) | anime-tux-4k |  |
 | ![another-mountain](wallpapers/another-mountain.png) | another-mountain |  |
 | ![another-one](wallpapers/another-one.png) | another-one |  |
 | ![another-planet-with-grass_blue](wallpapers/another-planet-with-grass_blue.png) | another-planet-with-grass | [blue](tags/blue.md) |
